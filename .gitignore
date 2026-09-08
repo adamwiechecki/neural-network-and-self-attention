@@ -1,0 +1,10 @@
+venv/
+env/
+__pycache__/
+*.pyc
+.env
+Thumbs.db
+.vscode/
+.ipynb_checkpoints/
+.pytest_cache/
+data/
